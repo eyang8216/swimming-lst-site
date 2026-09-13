@@ -1,6 +1,5 @@
 ---
 import { getCollection } from "astro:content";
-import Newsletterbox from '../../components/Newsletterbox.astro';
 import PopularArticles from '../../components/PopularArticles.astro';
 import Layout from "../../layouts/Layout.astro";
 import RelatedArticles from "../../components/RelatedArticles.astro";
@@ -277,19 +276,7 @@ const { Content } = await entry.render();
             </div>
             <div class="w-full px-4 lg:w-4/12">
               <div>
-                <Newsletterbox />
                 <PopularArticles />
-
-                <div
-                  class="wow fadeInUp mb-12 overflow-hidden rounded-[5px]"
-                  data-wow-delay=".1s"
-                >
-                  <img
-                    src="/assets/blog/bannder-ad.png"
-                    alt="image"
-                    class="w-full"
-                  />
-                </div>
               </div>
             </div>
           </div>

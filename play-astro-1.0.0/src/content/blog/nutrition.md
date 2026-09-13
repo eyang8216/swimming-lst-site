@@ -3,14 +3,14 @@ draft: false
 title: "Fueling Performance: Nutrition for Swimmers"
 snippet: "What you eat before, during, and after training can make or break your performance in the water."
 image: {
-    src: "/20.jpg",
+    src: "/17.jpg",
     alt: "Swimmer nutrition"
 }
 publishDate: "2024-08-25 09:00"
 category: "Nutrition"
 author: "Ethan Yang"
 bigImg: {
-    src: "/20.jpg",
+    src: "/17.jpg",
     alt: "nutrition details",
 }
 authorImg: {

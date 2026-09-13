@@ -3,14 +3,14 @@ draft: false
 title: "Recovery: The Training You Do Outside the Pool"
 snippet: "Progress isn't made during practice—it's made during recovery. Are you giving your body what it needs?"
 image: {
-    src: "/23.jpg",
+    src: "/20.jpg",
     alt: "Swimmer recovery"
 }
 publishDate: "2024-08-28 11:00"
 category: "Recovery"
 author: "Ethan Yang"
 bigImg: {
-    src: "/23.jpg",
+    src: "/20.jpg",
     alt: "recovery details",
 }
 authorImg: {

@@ -3,14 +3,14 @@ draft: false
 title: "The Mental Game: Winning Between Your Ears"
 snippet: "Physical talent gets you to the blocks. Mental toughness gets you to the podium."
 image: {
-    src: "/26.jpg",
+    src: "/23.jpg",
     alt: "Mental preparation"
 }
 publishDate: "2024-09-01 13:00"
 category: "Mental Training"
 author: "Ethan Yang"
 bigImg: {
-    src: "/26.jpg",
+    src: "/23.jpg",
     alt: "mental training details",
 }
 authorImg: {
