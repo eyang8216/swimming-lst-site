@@ -3,19 +3,19 @@ draft: false
 title: "Dryland Training: Building Strength Outside the Pool"
 snippet: "The fastest swimmers aren't just technical—they're powerful. Dryland training is where that power is built."
 image: {
-    src: "/assets/blog/blog-03.jpg",
+    src: "/14.avif",
     alt: "Dryland training"
 }
 publishDate: "2024-09-05 10:30"
 category: "Training"
-author: "Swimming LST"
+author: "Ethan Yang"
 bigImg: {
-    src: "/assets/blog/blog-details-01.jpg",
+    src: "/14.avif",
     alt: "dryland training details",
 }
 authorImg: {
-    src: "/assets/blog/author-01.png",
-    alt: "author",
+    src: "/team-ethan.png",
+    alt: "Ethan Yang",
 }
 comments: "0"
 views: "0"

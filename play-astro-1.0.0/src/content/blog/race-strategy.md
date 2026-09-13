@@ -3,19 +3,19 @@ draft: false
 title: "Race Strategy: Swimming Smart, Not Just Fast"
 snippet: "A perfectly executed race plan can beat raw speed when the pressure is on."
 image: {
-    src: "/assets/blog/blog-02.jpg",
+    src: "/17.jpg",
     alt: "Race strategy"
 }
 publishDate: "2024-08-20 14:30"
 category: "Racing"
-author: "Swimming LST"
+author: "Ethan Yang"
 bigImg: {
-    src: "/assets/blog/blog-details-01.jpg",
+    src: "/17.jpg",
     alt: "race strategy details",
 }
 authorImg: {
-    src: "/assets/blog/author-01.png",
-    alt: "author",
+    src: "/team-ethan.png",
+    alt: "Ethan Yang",
 }
 comments: "0"
 views: "0"

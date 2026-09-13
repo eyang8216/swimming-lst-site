@@ -3,19 +3,19 @@ draft: false
 title: "Knees: The Hidden Vulnerability in Swimming"
 snippet: "The water may be forgiving, but the repetitive mechanics of certain strokes are not—especially for the knee."
 image: {
-    src: "/assets/blog/blog-01.jpg",
+    src: "/8.jpg",
     alt: "Swimming knee injury"
 }
 publishDate: "2024-09-02 18:00"
 category: "Injury Prevention"
-author: "Swimming LST"
+author: "Ethan Yang"
 bigImg: {
-    src: "/assets/blog/blog-details-01.jpg",
+    src: "/8.jpg",
     alt: "knee injury details",
 }
 authorImg: {
-    src: "/assets/blog/author-01.png",
-    alt: "author",
+    src: "/team-ethan.png",
+    alt: "Ethan Yang",
 }
 comments: "0"
 views: "0"

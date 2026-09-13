@@ -3,19 +3,19 @@ draft: false
 title: "Mastering Breathing Technique in Freestyle"
 snippet: "Proper breathing mechanics can be the difference between a strong finish and fading in the final 50 meters."
 image: {
-    src: "/assets/blog/blog-01.jpg",
+    src: "/11.jpg",
     alt: "Freestyle breathing technique"
 }
 publishDate: "2024-08-15 10:00"
 category: "Technique"
-author: "Swimming LST"
+author: "Ethan Yang"
 bigImg: {
-    src: "/assets/blog/blog-details-01.jpg",
+    src: "/11.jpg",
     alt: "breathing technique details",
 }
 authorImg: {
-    src: "/assets/blog/author-01.png",
-    alt: "author",
+    src: "/team-ethan.png",
+    alt: "Ethan Yang",
 }
 comments: "0"
 views: "0"
